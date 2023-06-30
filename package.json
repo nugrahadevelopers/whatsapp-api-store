@@ -1,7 +1,7 @@
 {
-  "name": "@ookamiiixd/baileys-store",
+  "name": "@nugrahadevelopers/whatsapp-api-store",
   "version": "1.0.0-beta.1",
-  "description": "Minimal Baileys data storage for your favorite DBMS built with Prisma",
+  "description": "Fork from Minimal Baileys data storage for your favorite DBMS built with Prisma by Royhan (https://github.com/ookamiiixd)",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "https://github.com/ookamiiixd/baileys-store.git",
