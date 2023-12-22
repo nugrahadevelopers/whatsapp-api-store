@@ -14,7 +14,7 @@
     "format": "prettier . --write"
   },
   "devDependencies": {
-    "@whiskeysockets/baileys": "github:nugrahadevelopers/baileys",
+    "@whiskeysockets/baileys": "git+https://github.com/nugrahadevelopers/baileys",
     "@prisma/client": "^4.7.1",
     "@types/node": "^18.11.10",
     "@typescript-eslint/eslint-plugin": "^5.45.0",
